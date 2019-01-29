@@ -1,6 +1,10 @@
-/************************************/
-/*       Flexible Box Model         */
-/************************************/
+/**************************************************************/
+/*  Flexbox Ultralight                                        */
+/*  Version 1.0                                               */
+/*  by Johanna Brewer                                         */
+/*  Copyright 2019                                            */
+/*  Download: https://github.com/deadroxy/flexbox-ultralight  */
+/**************************************************************/
 
 .flexbox {
   display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
